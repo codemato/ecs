@@ -1,0 +1,67 @@
+==========
+References
+==========
+FileRead
+System.Configuration
+System.IO
+System
+System.Text
+System.Collections.Generic
+System.Linq
+System.Threading.Tasks
+System.Reflection
+System.Runtime.CompilerServices
+System.Runtime.InteropServices
+project.all
+
+===============
+DownloadedFiles
+===============
+project.all.json
+system.configuration.json
+
+==============
+ProjectResults
+==============
+----------------------
+Showing results for: C:\work\Worker\FileRead\FileRead.csproj
+----------------------
+---------------------------
+Target Versions:
+---------------------------
+net6.0
+---------------------------
+Source Versions:
+---------------------------
+net48
+---------------------------
+Upgrade packages:
+---------------------------
+---------------------------
+Action packages:
+---------------------------
+
+----------------------
+Showing results for: C:\work\Worker\FileRead\FileRead.csproj
+----------------------
+---------------------------
+Target Versions:
+---------------------------
+net6.0
+---------------------------
+Source Versions:
+---------------------------
+net48
+---------------------------
+Upgrade packages:
+---------------------------
+---------------------------
+Action packages:
+---------------------------
+
+
+===========
+BuildErrors
+===========
+
+
