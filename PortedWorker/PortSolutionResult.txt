@@ -3,7 +3,6 @@ References
 ==========
 FileRead
 System.Threading.Tasks
-System.Configuration
 System
 System.IO
 System.Text
@@ -11,12 +10,11 @@ Amazon.S3
 Amazon.S3.Model
 System.Net
 System.Collections.Generic
+System.Configuration
 System.Linq
 System.Runtime.ExceptionServices
 System.Threading
 System.Reflection
-System.Runtime.CompilerServices
-System.Runtime.InteropServices
 project.all
 
 ===============
@@ -29,7 +27,7 @@ system.configuration.json
 ProjectResults
 ==============
 ----------------------
-Showing results for: C:\Users\admin\aws-ecs-windows-aspnet\console\ecs\Worker\FileRead\FileRead.csproj
+Showing results for: C:\Users\admin\aws-ecs-windows-aspnet\console\ecs\PortedWorker\FileRead\FileRead.csproj
 ----------------------
 ---------------------------
 Target Versions:
@@ -47,7 +45,7 @@ Action packages:
 ---------------------------
 
 ----------------------
-Showing results for: C:\Users\admin\aws-ecs-windows-aspnet\console\ecs\Worker\FileRead\FileRead.csproj
+Showing results for: C:\Users\admin\aws-ecs-windows-aspnet\console\ecs\PortedWorker\FileRead\FileRead.csproj
 ----------------------
 ---------------------------
 Target Versions:

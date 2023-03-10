@@ -8,3 +8,5 @@ C:\work\Worker\FileRead\obj\Debug\FileRead.exe
 C:\work\Worker\FileRead\obj\Debug\FileRead.pdb
 C:\Users\admin\aws-ecs-windows-aspnet\console\ecs\Worker\FileRead\bin\Debug\FileRead.exe.config
 C:\Users\admin\aws-ecs-windows-aspnet\console\ecs\Worker\FileRead\obj\Debug\FileRead.csproj.CopyComplete
+C:\Users\admin\aws-ecs-windows-aspnet\console\ecs\PortedWorker\FileRead\bin\Debug\FileRead.exe.config
+C:\Users\admin\aws-ecs-windows-aspnet\console\ecs\PortedWorker\FileRead\obj\Debug\FileRead.csproj.CopyComplete

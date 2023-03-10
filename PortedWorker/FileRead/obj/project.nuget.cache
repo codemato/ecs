@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "HJc0sCt+L3L/osvfsAocb8INobbKao3nwg8z5yuRDu+efYzttpKHUDSSFf/V19HfTig5zMnOyAIqX7IAycyM+Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\admin\\aws-ecs-windows-aspnet\\console\\ecs\\PortedWorker\\FileRead\\FileRead.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\awssdk.core\\3.7.105.16\\awssdk.core.3.7.105.16.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\awssdk.s3\\3.7.103.24\\awssdk.s3.3.7.103.24.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\system.configuration.configurationmanager\\7.0.0\\system.configuration.configurationmanager.7.0.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\system.security.cryptography.protecteddata\\7.0.0\\system.security.cryptography.protecteddata.7.0.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\system.security.permissions\\7.0.0\\system.security.permissions.7.0.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\system.windows.extensions\\7.0.0\\system.windows.extensions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

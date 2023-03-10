@@ -1,0 +1,11 @@
+    {
+        "cluster": "workshop-cluster",
+        "taskDefinition": "file-read-new2:1",
+        "networkConfiguration": {
+            "awsvpcConfiguration": {
+                "subnets": ["subnet-0a5ce9e4b39ff66b4"],
+                "securityGroups": ["sg-0c3c3678304075a80"],
+                "assignPublicIp": "ENABLED"
+            }
+        }
+    }

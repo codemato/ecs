@@ -1,0 +1,24 @@
+{
+    "containerDefinitions": [
+        {
+            "entryPoint": [],
+            "essential": true,
+            "cpu": 1024,
+            "memory": 2048,      
+            "image": "136514651943.dkr.ecr.ap-south-1.amazonaws.com/file-read:latest",
+            "name": "file-read-new2"
+        }
+    ],
+    "memory": "2048",
+    "cpu": "1024",
+    "networkMode": "awsvpc",
+    "family": "file-read-new2",
+    "executionRoleArn": "arn:aws:iam::136514651943:role/ecsTaskExecutionRole",
+    "runtimePlatform": {
+        "cpuArchitecture": "X86_64",
+        "operatingSystemFamily": "WINDOWS_SERVER_2019_FULL"
+    },
+    "requiresCompatibilities": [
+        "FARGATE"
+    ]
+}
